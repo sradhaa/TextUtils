@@ -87,12 +87,13 @@ function App() {
     //     </Routes>
     //   </div>
     // </Router>
+
     <>
       <Navbar title="TextUtils" mode={mode} toggleMode={toggleMode} />
       <Alert alert={alert} />
       <div className="container">
         <TextForm
-          heading="Enter the text to analyze below"
+          heading="Enter the text to analyze below..."
           mode={mode}
           showAlert={showAlert}
         />
