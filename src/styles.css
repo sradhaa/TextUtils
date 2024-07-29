@@ -1,0 +1,64 @@
+.form-check-input-red:checked {
+  background-color: red;
+  border-color: red;
+}
+.form-check-input-red:focus {
+  border-color: red;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(238, 3, 3, 0.25);
+}
+.form-switch .form-check-input-red {
+  border-color: red;
+}
+
+.form-check-input-yellow:checked {
+  background-color: yellow;
+  border-color: yellow;
+}
+.form-check-input-yellow:focus {
+  border-color: yellow;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(227, 241, 18, 0.966);
+}
+.form-switch .form-check-input-yellow {
+  border-color: rgb(409, 199, 0);
+}
+
+.form-check-input-black:checked {
+  background-color: black;
+  border-color: black;
+}
+.form-check-input-black:focus {
+  border-color: black;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(14, 13, 13, 0.25);
+}
+.form-switch .form-check-input-black {
+  border-color: black;
+}
+
+.form-check-input-blue:checked {
+  background-color: blue;
+  border-color: blue;
+}
+.form-check-input-blue:focus {
+  border-color: blue;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(47, 4, 240, 0.25);
+}
+.form-switch .form-check-input-blue {
+  border-color: blue;
+}
+
+.form-check-input-green:checked {
+  background-color: green;
+  border-color: green;
+}
+.form-check-input-green:focus {
+  border-color: green;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(4, 240, 161, 0.973);
+}
+.form-switch .form-check-input-green {
+  border-color: green;
+}
